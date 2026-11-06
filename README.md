@@ -7,3 +7,6 @@ Authors: Rachel Nelson1*, Katherine A. Sward1,2, Mollie R. Cummins2, Ramkiran Go
 2College of Nursing, University of Utah, Salt Lake City, UT, USA
 
 ∗Correspondence: Address to Rachel Nelson, Department of Biomedical Informatics, University of Utah, 421 Wakara Way, Salt Lake City, UT 84111. rachel.nelson@utah.edu
+
+Enclosed files
+Analysis_RN.ipynb  Jupyter notebook with programming code
