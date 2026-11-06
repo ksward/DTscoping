@@ -9,8 +9,10 @@ Authors: Rachel Nelson1*, Katherine A. Sward1,2, Mollie R. Cummins2, Ramkiran Go
 ∗Correspondence: Address to Rachel Nelson, Department of Biomedical Informatics, University of Utah, 421 Wakara Way, Salt Lake City, UT 84111. rachel.nelson@utah.edu
 
 Enclosed files
-Analysis_RN.ipynb  Jupyter notebook with programming code
-b_Template_Extraction.docx  Extraction template from Covidence
-maturity.docx  codes for clinical readiness summary
-b_Template_Quality.docx  Article Quality Assessment template from Covidence
-countries.csv  re-formatted list to support count of countries
+<ul>
+  <li>Analysis_RN.ipynb  Jupyter notebook with programming code</li>
+<li>b_Template_Extraction.docx  Extraction template from Covidence</li>
+<li>maturity.docx  codes for clinical readiness summary</li>
+<li>b_Template_Quality.docx  Article Quality Assessment template from Covidence</li>
+<li>countries.csv  re-formatted list to support count of countries</li>
+</ul>
